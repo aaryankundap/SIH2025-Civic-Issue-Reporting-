@@ -1,0 +1,17 @@
+[
+  {
+    "GPSDateStamp": "2025:09:19",
+    "Classification": "pothole",
+    "Location": "https://www.google.com/maps?q=18.491503,73.814365"
+  },
+  {
+    "GPSDateStamp": "2025:09:20",
+    "Classification": "garbage",
+    "Location": "https://www.google.com/maps?q=18.520430,73.856743"
+  },
+  {
+  "GPSDateStamp": "2025:09:20",
+  "Classification": "garbage pile",
+  "Location": "https://www.google.com/maps?q=18.520430,73.856743"
+}
+]
